@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.3/Taraza_0.1.3_x64-setup.exe",
-  "notes": "به‌روزرسانی خودکار واقعی: با یک کلیک دانلود، نصب و اجرای مجدد؛ رفع مشکل عدم دریافت"
+  "version": "0.1.4",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.4/Taraza_0.1.4_x64-setup.exe",
+  "notes": "نوع «کارمند» در طرف حساب با اطلاعات حساب بانکی (بانک، شعبه، کد شعبه، شماره حساب، نوع حساب) و امکان ویرایش دریافت/پرداخت ثبت‌شده"
 }
