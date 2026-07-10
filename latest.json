@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.4/Taraza_0.1.4_x64-setup.exe",
-  "notes": "نوع «کارمند» در طرف حساب با اطلاعات حساب بانکی (بانک، شعبه، کد شعبه، شماره حساب، نوع حساب) و امکان ویرایش دریافت/پرداخت ثبت‌شده"
+  "version": "0.1.5",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.5/Taraza_0.1.5_x64-setup.exe",
+  "notes": "رفع ۹ اشکال بازبینی فنی: پایداری اعتبارزدایی و حذف اسناد (فروش، خرید، خزانه، چک)، جلوگیری از فروش بیش از موجودی، سند حقوق با «سایر کسورات»، امنیت مدیریت کاربران، حفظ تفصیلی در ویرایش دریافت/پرداخت"
 }
