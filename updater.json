@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "رفع ۹ اشکال بازبینی فنی: پایداری اعتبارزدایی و حذف اسناد (فروش، خرید، خزانه، چک)، جلوگیری از فروش بیش از موجودی، سند حقوق با «سایر کسورات»، امنیت مدیریت کاربران، حفظ تفصیلی در ویرایش دریافت/پرداخت",
-  "pub_date": "2026-07-10T03:37:10.290Z",
+  "version": "0.1.6",
+  "notes": "اصلاح ۹ ایراد بازبینی فنی؛ استاندارد جداکننده اعداد و درج خودکار «/» در تاریخ؛ تست‌های چاپ و رفع دکمه بی‌عملکرد؛ بازنویسی «درباره ما» و اطلاعات تماس",
+  "pub_date": "2026-07-10T04:48:11.424Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWZxcHVoU0NEdGk2ZjY5MDRUbU5qLzlBNjZGWUFlRGYyYW1hSTNxQmRWdm1wTTZ0b0R2RDk0eExKcy8vbjJaU1VPekx0NHM1M2Vaa0ZaL0d4MVdlS0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjU0NTIxCWZpbGU6VGFyYXphXzAuMS41X3g2NC1zZXR1cC5leGUKZEsvL2h6SFc2UC9DcndTOFI1SS9lc2FDenhUQ2JHbHc2bjBEMDRiU0FWanNrQTZBRGxrUDJlN2taY0NUM2Y2ZStibG9MUHdoaW9pY1hQWnpReUtpQ0E9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.5/Taraza_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVZ3N1RKZWs5WU5hMXhZV3dDTlJaSUR4ZElndUM2dmQxY21rYlpsUFRFM1JFV1pGTjVwNHZhMDRjMTAwMEhRTmoybjJVYlZzTURLNWxDRngxZmJWM2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjU4ODcyCWZpbGU6VGFyYXphXzAuMS42X3g2NC1zZXR1cC5leGUKR0Zhb2lGbWtsKy9MWGxDRkNsTlA5ZWhPQy8yT2VVTFFXUkdrRkkwQkZJTTVxOTlpK0NOZTJvUnZqTzJoWWJjQ3NkZzdNUEU3TCtNbEdoTnlZS0ZPQXc9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.6/Taraza_0.1.6_x64-setup.exe"
     }
   }
 }
