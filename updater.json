@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "اصلاح ۹ ایراد بازبینی فنی؛ استاندارد جداکننده اعداد و درج خودکار «/» در تاریخ؛ تست‌های چاپ و رفع دکمه بی‌عملکرد؛ بازنویسی «درباره ما» و اطلاعات تماس",
-  "pub_date": "2026-07-10T04:48:11.424Z",
+  "version": "0.1.7",
+  "notes": "لوگوی جدید ترازا در برنامه و فایل نصبی؛ حذف «مرجع ثبت» از درباره ما؛ درج نام ناشر و کپی‌رایت در نصاب",
+  "pub_date": "2026-07-10T05:18:36.019Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVZ3N1RKZWs5WU5hMXhZV3dDTlJaSUR4ZElndUM2dmQxY21rYlpsUFRFM1JFV1pGTjVwNHZhMDRjMTAwMEhRTmoybjJVYlZzTURLNWxDRngxZmJWM2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjU4ODcyCWZpbGU6VGFyYXphXzAuMS42X3g2NC1zZXR1cC5leGUKR0Zhb2lGbWtsKy9MWGxDRkNsTlA5ZWhPQy8yT2VVTFFXUkdrRkkwQkZJTTVxOTlpK0NOZTJvUnZqTzJoWWJjQ3NkZzdNUEU3TCtNbEdoTnlZS0ZPQXc9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.6/Taraza_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVlsTlRGeS9GVEYxZ3k0elAycDJtMHVCa0RhVE96U2RyamZHakhqQ0VZRVVPTDhVWHRsT2NoeTdPTmhqZ3IxVDdiNjBmOStSanhGZStNVFdCQnZyTUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjYwNjcwCWZpbGU6VGFyYXphXzAuMS43X3g2NC1zZXR1cC5leGUKWVlZbkF6bHZsQU1hcFVJUWlKSjlMZXpubGRvUlcxR3dLSFBwYWRWUEs3ZzNNeFAxaStaYnphQUtFWVlYcnFOcWRJM0xlR1FHbXdFY0FBS25tQzg3QUE9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.7/Taraza_0.1.7_x64-setup.exe"
     }
   }
 }
