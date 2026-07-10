@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "بزرگ‌تر و خواناتر شدن لوگو در صفحه ورود، نوار کناری و کارت‌های راه‌اندازی",
-  "pub_date": "2026-07-10T05:32:01.054Z",
+  "version": "0.1.9",
+  "notes": "قفل پیش‌فاکتور پس از تبدیل (رفع باگ)؛ ارزش افزوده سطری در فروش و خرید؛ عوامل حقوق و دستمزد، دستمزد روزانه و تسویه‌حساب پرسنل؛ چاپ فاکتور با مشخصات کامل دو طرف؛ جستجو در کدینگ؛ پشتیبان‌گیری هنگام خروج؛ خوانایی ارقام",
+  "pub_date": "2026-07-10T12:41:28.958Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVkxWFQ2R1dUTWxFa0ZUNGxTYkZIOURpTFpkSW5YL2ZVQi9uWXV3VWxUYlhrN3JKSjcrK3NEZkhiazJaNmlKT3l3NVpLVVN2aVBnMXJFQ3doVU1BalFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjYxNDM2CWZpbGU6VGFyYXphXzAuMS44X3g2NC1zZXR1cC5leGUKemRnYWdDU1Q4d0NTaXpKSlBUdTNnWlhZdTlPeW42V29oOVRUUUg2Ny85S0FXWjNqbkpibE9EOVBPKyt1bm9ZRUtFUG01NzFOWTRxdTEzemh1TXUrQ2c9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.8/Taraza_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVY2WGF3ZUZjc1NLa25VcWU4VXRrdmprZ1l1cWxNVmlYc0pNNTdnY1J2RGRZNDBlc0ZNSVVmV0w4bzg1eGJnSlRaNGVpZUdXbko5Yi94OFVjakpGTFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjg3Mjc2CWZpbGU6VGFyYXphXzAuMS45X3g2NC1zZXR1cC5leGUKNElwY2FvT1lwbzk1WVhRMWtUeDFMR3NKZ2RPc0kyVm03MUJ1SGJGanlBdU96Zm9sMkVZSWw3MTZ5MXVCRStldWxzRm9mZ0JPckpEaWFIVlJvWS8rQkE9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.9/Taraza_0.1.9_x64-setup.exe"
     }
   }
 }
