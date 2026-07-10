@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "قفل پیش‌فاکتور پس از تبدیل (رفع باگ)؛ ارزش افزوده سطری در فروش و خرید؛ عوامل حقوق و دستمزد، دستمزد روزانه و تسویه‌حساب پرسنل؛ چاپ فاکتور با مشخصات کامل دو طرف؛ جستجو در کدینگ؛ پشتیبان‌گیری هنگام خروج؛ خوانایی ارقام",
-  "pub_date": "2026-07-10T12:41:28.958Z",
+  "version": "0.1.10",
+  "notes": "طراحی گزارش: فیلتر نوع سند با پیش‌فاکتور خاموش به‌صورت پیش‌فرض؛ نمایش فارسی نوع و وضعیت در جدول، چاپ و خروجی اکسل",
+  "pub_date": "2026-07-10T15:29:02.190Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVY2WGF3ZUZjc1NLa25VcWU4VXRrdmprZ1l1cWxNVmlYc0pNNTdnY1J2RGRZNDBlc0ZNSVVmV0w4bzg1eGJnSlRaNGVpZUdXbko5Yi94OFVjakpGTFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjg3Mjc2CWZpbGU6VGFyYXphXzAuMS45X3g2NC1zZXR1cC5leGUKNElwY2FvT1lwbzk1WVhRMWtUeDFMR3NKZ2RPc0kyVm03MUJ1SGJGanlBdU96Zm9sMkVZSWw3MTZ5MXVCRStldWxzRm9mZ0JPckpEaWFIVlJvWS8rQkE9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.9/Taraza_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWNDRVkrUkoraXBlMitaTFpRZUpadis1SERIdDcvTWtMMjRYS2Rlb2RuVDFLaSt2U3BMNUltMWVmMWlvNFZzbm45V2JIM0Y1ODhRNVBoaDlvbE5LQ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjk3MzI1CWZpbGU6VGFyYXphXzAuMS4xMF94NjQtc2V0dXAuZXhlCmlrWW5wOGx1dkxuMzRpZ01RSlpEUzBRd2RFamNNRXBzLzNnY2VDRE5uTVN3L3lqK3VFMkJZTFlicVE0MTNHVTk2ZzV2bk1Edys2T1pRd2JKczZXWEF3PT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.10/Taraza_0.1.10_x64-setup.exe"
     }
   }
 }
