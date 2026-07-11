@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "نسخهٔ ۰٫۲٫۰ — بازسازی بنیادی پس از ممیزی: تراکنش‌های واقعی و اتمی برای همهٔ نوشتن‌های مالی، اصلاح محاسبات حقوق (کسورات سفارشی، فیش تناسبی، تاریخ سند و لغو قطعی حقوق)، حمل تفصیلی در بستن سال، سقف بیمه و جدول مالیات، امنیت (پشتیبان استاندارد و خودکار، CSP، قفل حساب)، رابط کاربری یکدست (بارگذاری/خطا/تأیید فارسی)، ایندکس‌ها و صفحه‌بندی، و خروجی مانده اول دوره. پیش از نصب، پشتیبان خودکار گرفته می‌شود.",
-  "pub_date": "2026-07-11T15:34:13.132Z",
+  "version": "0.2.1",
+  "notes": "رفع اشکالات ظاهری: حذف دکمه‌های خروجی بی‌مورد از صفحهٔ انتخاب شرکت و بهبود خوانایی متن دکمه‌ها در تم‌های تیره.",
+  "pub_date": "2026-07-11T16:23:56.079Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWFjRGpyUjJDMlc3a1c4NytlKy9hK3h0SzFEckdmSzJvWlE0UHJUTkx6M0ozSGdhalFlSk1OajlKUVJNQjBXc0dsNlVIeWNFUS85SkFMeFRSejhTVHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzg0MDMwCWZpbGU6VGFyYXphXzAuMi4wX3g2NC1zZXR1cC5leGUKY1drRFMzb1JFeDB4RCsrYXFHeVRuLzlIcmVOb2pXQ3FvamdLSTRDU2V4ZTJJWFpSMGh6QzM1MVlIMzdBN1JRbkpLcDltMHhYY09pWWQ2WDlJeEdVQ1E9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.0/Taraza_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVdMdHhXL3N2eDZnd1BHMERtNW13NFVORnUzekRpMVNNWGk0TDJRam1qVFNIS2JZT2lRM3RXc2daekY3cnVhMUxmWGJTMlBLMXJacEx0bDF6bFdVNGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzg3MTg4CWZpbGU6VGFyYXphXzAuMi4xX3g2NC1zZXR1cC5leGUKMkJrbEFIL3E2VGttTVBCQWZkYWdJMnlLbTBIV2EyZFlJVXRQbVBSVE5nVFlnSDVuYkQzU1N4ai93U3dJOVJBYmhFeFVZV2lFaHFQa3laQW9nR2VJREE9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.1/Taraza_0.2.1_x64-setup.exe"
     }
   }
 }
