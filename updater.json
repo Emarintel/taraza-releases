@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "طراحی گزارش: فیلتر نوع سند با پیش‌فاکتور خاموش به‌صورت پیش‌فرض؛ نمایش فارسی نوع و وضعیت در جدول، چاپ و خروجی اکسل",
-  "pub_date": "2026-07-10T15:29:02.190Z",
+  "version": "0.2.0",
+  "notes": "نسخهٔ ۰٫۲٫۰ — بازسازی بنیادی پس از ممیزی: تراکنش‌های واقعی و اتمی برای همهٔ نوشتن‌های مالی، اصلاح محاسبات حقوق (کسورات سفارشی، فیش تناسبی، تاریخ سند و لغو قطعی حقوق)، حمل تفصیلی در بستن سال، سقف بیمه و جدول مالیات، امنیت (پشتیبان استاندارد و خودکار، CSP، قفل حساب)، رابط کاربری یکدست (بارگذاری/خطا/تأیید فارسی)، ایندکس‌ها و صفحه‌بندی، و خروجی مانده اول دوره. پیش از نصب، پشتیبان خودکار گرفته می‌شود.",
+  "pub_date": "2026-07-11T15:34:13.132Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWNDRVkrUkoraXBlMitaTFpRZUpadis1SERIdDcvTWtMMjRYS2Rlb2RuVDFLaSt2U3BMNUltMWVmMWlvNFZzbm45V2JIM0Y1ODhRNVBoaDlvbE5LQ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjk3MzI1CWZpbGU6VGFyYXphXzAuMS4xMF94NjQtc2V0dXAuZXhlCmlrWW5wOGx1dkxuMzRpZ01RSlpEUzBRd2RFamNNRXBzLzNnY2VDRE5uTVN3L3lqK3VFMkJZTFlicVE0MTNHVTk2ZzV2bk1Edys2T1pRd2JKczZXWEF3PT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.1.10/Taraza_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWFjRGpyUjJDMlc3a1c4NytlKy9hK3h0SzFEckdmSzJvWlE0UHJUTkx6M0ozSGdhalFlSk1OajlKUVJNQjBXc0dsNlVIeWNFUS85SkFMeFRSejhTVHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzg0MDMwCWZpbGU6VGFyYXphXzAuMi4wX3g2NC1zZXR1cC5leGUKY1drRFMzb1JFeDB4RCsrYXFHeVRuLzlIcmVOb2pXQ3FvamdLSTRDU2V4ZTJJWFpSMGh6QzM1MVlIMzdBN1JRbkpLcDltMHhYY09pWWQ2WDlJeEdVQ1E9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.0/Taraza_0.2.0_x64-setup.exe"
     }
   }
 }
