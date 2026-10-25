@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "رفع اشکالات ظاهری: حذف دکمه‌های خروجی بی‌مورد از صفحهٔ انتخاب شرکت و بهبود خوانایی متن دکمه‌ها در تم‌های تیره.",
-  "pub_date": "2026-07-11T16:23:56.079Z",
+  "version": "0.2.4",
+  "notes": "نسخهٔ ۰٫۲٫۴: خروجی بیمه و مالیات حقوق (فایل‌های WP/WH/WK، دیسک بیمه و پوشهٔ حسابرسی)؛ حق عائله‌مندی؛ دسته‌چک و سریال چک صادره و رسید چک A4؛ شماره‌گذاری مجدد اسناد بر اساس تاریخ؛ پشتیبانی مبالغ ۱۶ رقمی در سند؛ داشبورد جدید با چک‌های نزد صندوق و روند ماهانه؛ استحکام بیشتر محاسبات حقوق و جلوگیری از تغییر رکوردهای قطعی.",
+  "pub_date": "2026-10-25T17:33:44.275Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVdMdHhXL3N2eDZnd1BHMERtNW13NFVORnUzekRpMVNNWGk0TDJRam1qVFNIS2JZT2lRM3RXc2daekY3cnVhMUxmWGJTMlBLMXJacEx0bDF6bFdVNGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzg3MTg4CWZpbGU6VGFyYXphXzAuMi4xX3g2NC1zZXR1cC5leGUKMkJrbEFIL3E2VGttTVBCQWZkYWdJMnlLbTBIV2EyZFlJVXRQbVBSVE5nVFlnSDVuYkQzU1N4ai93U3dJOVJBYmhFeFVZV2lFaHFQa3laQW9nR2VJREE9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.1/Taraza_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVErUFk2Y3lxYnByY0V4VVhvUE5wYlo3Mkp4b3RzWiszWER3YW5Dek9ZRlZkZjdhMFVuTUxLSDAwZFREdTlld0tQU0tGUDNyb25hbUVjTjRyeUFRU2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ5ODIzCWZpbGU6VGFyYXphXzAuMi40X3g2NC1zZXR1cC5leGUKUEN6Y1FzVlNtckhOcDEzMW1qMnZIa3IxeFBhWGF2dmdvRzZ2cGlBdU92QWVvK21YK2MyaG41UzBQY0tUbUQ1azdZL1puZ1dUQ205enE3RUN4V2F0Q1E9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.4/Taraza_0.2.4_x64-setup.exe"
     }
   }
 }
