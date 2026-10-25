@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "نسخهٔ ۰٫۲٫۶ — حقوق و دستمزد: قواعد تاریخ‌دار مشمولیت بیمه و مالیات برای هر قلم (از تاریخ اجرای حکم یا بخشنامه)؛ اطلاعات پایهٔ سالانه با حداقل دستمزد (سقف بیمه ۷ برابر، سقف عیدی ۳ برابر)؛ محاسبهٔ روز کارکرد تسویه از تاریخ قرارداد؛ مالیات عیدی (معافیت ماهانه، مازاد روی حقوق همان ماه) و ثبت آن در سند تسویه و در لیست مالیات ماهانه؛ امکان تعیین مشمول عیدی و سنوات برای اقلام پایه توسط مدیر. نکته: تسویه‌ای که عیدی مشمول مالیات دارد، پس از قطعی‌شدن حقوق همان ماه قطعی می‌شود.",
-  "pub_date": "2026-10-25T19:26:17.137Z",
+  "version": "0.2.7",
+  "notes": "نسخهٔ ۰٫۲٫۷ — جدول مالیات حقوق به تفکیک سال: معافیت ماهانه و پلکان‌های مالیات هر سال را طبق قانون بودجه از «حقوق ← تنظیمات ← جدول مالیات حقوق سال» وارد کنید؛ حقوق ماه‌های آن سال و مالیات عیدیِ تسویه‌های همان سال با همین جدول محاسبه می‌شوند. سال‌های بدون جدول، از جدول پیش‌فرض استفاده می‌کنند و فیش‌های قطعی تغییری نمی‌کنند.",
+  "pub_date": "2026-10-25T19:43:25.180Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWFJY3FLcHVvQmVKdU83dzNKTkpXZ3hHaFg5ZjlRbWFzVkw5clorRW0zd2lLMmp2dEJhQnc1RDEwRWdObU9MeUx2Wk9JeXpjZnQ2Nmo3VDV3UHd2M2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU2NTI4CWZpbGU6VGFyYXphXzAuMi42X3g2NC1zZXR1cC5leGUKbDJtOVRLaWRBNDhoU0hZSGQ3ZG82OVRobjRiU2g1RU9hYzVPcXo0RXJ3dlV2eEtlMUFVNHYyaFZOdU85ZWNERWp3WHA0ektoMXdyUit0NmE5YythQUE9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.6/Taraza_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWJpRTk3Rnp3R2UyQW84b1JYSkpSK3daZU1FRmpYaHR3YS9VSlRGcGtiUmhINDVyMGFmRGJZVXpJaHBUaEx6YTBXbXI5QnBFMEUyb3F6blBkTHdLZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU3NTU5CWZpbGU6VGFyYXphXzAuMi43X3g2NC1zZXR1cC5leGUKcmdYWlNaVllnNEZtYmIrU1BiMHVhVngzNllseVZyd0NGSUpiaWZOaHR6MGZSbll0L0Y1STNWVkVTWTJvcmpjODNkazFFcjhmQkxpWUNVZ1VjR0s3Qmc9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.7/Taraza_0.2.7_x64-setup.exe"
     }
   }
 }
