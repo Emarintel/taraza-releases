@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "notes": "نسخهٔ ۰٫۲٫۷ — جدول مالیات حقوق به تفکیک سال: معافیت ماهانه و پلکان‌های مالیات هر سال را طبق قانون بودجه از «حقوق ← تنظیمات ← جدول مالیات حقوق سال» وارد کنید؛ حقوق ماه‌های آن سال و مالیات عیدیِ تسویه‌های همان سال با همین جدول محاسبه می‌شوند. سال‌های بدون جدول، از جدول پیش‌فرض استفاده می‌کنند و فیش‌های قطعی تغییری نمی‌کنند.",
-  "pub_date": "2026-10-25T19:43:25.180Z",
+  "version": "0.2.8",
+  "notes": "پایان لایسنس یا دورهٔ آزمایشی دیگر برنامه را قفل نمی‌کند: ورود، مشاهده و ثبت سند در سال‌های مالی موجود همیشه ممکن است. فقط به‌روزرسانی و تعریف سال مالی جدید به تمدید نیاز دارد. طول سال مالی جدید حداکثر ۱۲ ماه است و فقط تا سال مالی بعدی قابل تعریف است.",
+  "pub_date": "2026-11-01T19:42:23.587Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWJpRTk3Rnp3R2UyQW84b1JYSkpSK3daZU1FRmpYaHR3YS9VSlRGcGtiUmhINDVyMGFmRGJZVXpJaHBUaEx6YTBXbXI5QnBFMEUyb3F6blBkTHdLZUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU3NTU5CWZpbGU6VGFyYXphXzAuMi43X3g2NC1zZXR1cC5leGUKcmdYWlNaVllnNEZtYmIrU1BiMHVhVngzNllseVZyd0NGSUpiaWZOaHR6MGZSbll0L0Y1STNWVkVTWTJvcmpjODNkazFFcjhmQkxpWUNVZ1VjR0s3Qmc9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.7/Taraza_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWRNS0xRUlloNmhTT2c2Y2FQa3ZuRnd2TUlYNTVhTTZJdVV2eVpGVnVrdFhHN0tGbUpESzZ4N0pYUWk2TGxmMTVpbjBRTVVpZDZoOWdHS0Z0OGg0a2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTYyMzI4CWZpbGU6VGFyYXphXzAuMi44X3g2NC1zZXR1cC5leGUKYThBL3g5ZHZtYUNLWXg3TzB0MTNOS3hIRU5YOGFQYkxaRFdzb1dweG5xU2RkRzRiV2pVVEpQTTl5THEwMHIrL2E5dU1oRWdZaHBpaU9iQW94ZC9UQmc9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.8/Taraza_0.2.8_x64-setup.exe"
     }
   }
 }
