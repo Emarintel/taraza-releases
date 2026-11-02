@@ -1,5 +1,5 @@
 {
-  "version": "0.2.9",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.9/Taraza_0.2.9_x64-setup.exe",
-  "notes": "پشتیبان خودکار حالا بیرون از پوشهٔ برنامه هم ذخیره می‌شود و با حذف برنامه پاک نمی‌شود: به‌صورت پیش‌فرض در Documents\\Taraza Backups، یا هر پوشه‌ای که از تنظیمات، بخش پشتیبان‌گیری، انتخاب کنید. اگر پشتیبان در پوشه ذخیره نشود، هشدار نمایش داده می‌شود."
+  "version": "0.2.10",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.10/Taraza_0.2.10_x64-setup.exe",
+  "notes": "رفع خطای ذخیره‌نشدن پشتیبان خودکار روی سیستم‌هایی که قابلیت امنیتی Controlled Folder Access ویندوز روشن است. پوشهٔ پیش‌فرض پشتیبان حالا پوشهٔ Taraza Backups در پوشهٔ کاربر است."
 }
