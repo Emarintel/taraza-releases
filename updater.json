@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "پایان لایسنس یا دورهٔ آزمایشی دیگر برنامه را قفل نمی‌کند: ورود، مشاهده و ثبت سند در سال‌های مالی موجود همیشه ممکن است. فقط به‌روزرسانی و تعریف سال مالی جدید به تمدید نیاز دارد. طول سال مالی جدید حداکثر ۱۲ ماه است و فقط تا سال مالی بعدی قابل تعریف است.",
-  "pub_date": "2026-11-01T19:42:23.587Z",
+  "version": "0.2.9",
+  "notes": "پشتیبان خودکار حالا بیرون از پوشهٔ برنامه هم ذخیره می‌شود و با حذف برنامه پاک نمی‌شود: به‌صورت پیش‌فرض در Documents\\Taraza Backups، یا هر پوشه‌ای که از تنظیمات، بخش پشتیبان‌گیری، انتخاب کنید. اگر پشتیبان در پوشه ذخیره نشود، هشدار نمایش داده می‌شود.",
+  "pub_date": "2026-11-02T10:11:34.806Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWRNS0xRUlloNmhTT2c2Y2FQa3ZuRnd2TUlYNTVhTTZJdVV2eVpGVnVrdFhHN0tGbUpESzZ4N0pYUWk2TGxmMTVpbjBRTVVpZDZoOWdHS0Z0OGg0a2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTYyMzI4CWZpbGU6VGFyYXphXzAuMi44X3g2NC1zZXR1cC5leGUKYThBL3g5ZHZtYUNLWXg3TzB0MTNOS3hIRU5YOGFQYkxaRFdzb1dweG5xU2RkRzRiV2pVVEpQTTl5THEwMHIrL2E5dU1oRWdZaHBpaU9iQW94ZC9UQmc9PQo=",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.8/Taraza_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWJnRW5ja2JoUW8vZ1RjbjA4V3gyMnlIcWdwTmtwRDJWenN2dUVRNTVjeVdYQk83bXNwVTAwUWlIN2xLcXBVNzRwamV1VSttaitXQXF6bVZ3VFZZeHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE0NDg0CWZpbGU6VGFyYXphXzAuMi45X3g2NC1zZXR1cC5leGUKaUZ0cnVJR1lQcUt1M0FLaFlqNjF2U1dqMVJHL1hjR2RBQUNrUTZoM2tLYkprbHJnMDVZamhleFMzWmFuR0N0VE1Uc0VWeXo0UjhyalFxMW9HTkVJQVE9PQo=",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/v0.2.9/Taraza_0.2.9_x64-setup.exe"
     }
   }
 }
