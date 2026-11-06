@@ -1,11 +1,11 @@
 {
-  "version": "1.0.22",
-  "notes": "What's new for service companies: choose what you sell (services, goods or both) when you create a company; sell with free-text description lines (no item or warehouse needed) posted to the income account you choose; a starter list of common services; create a bank, cash box, customer or supplier account in one click from its form; inventory screens stay out of the way for service-only companies. Existing companies keep working exactly as before.",
-  "pub_date": "2026-11-06T09:03:57.244Z",
+  "version": "1.0.23",
+  "notes": "Taraza now tells you when an update is out: a green bar at the top of every screen and one Windows notification, with What's new, Update now (backs up your data first) and Later. You can turn the automatic check off in Settings > About and licence. For service companies, a new invoice or quotation opens on a description line, quantity 1, with no warehouse fields.",
+  "pub_date": "2026-11-06T12:38:16.951Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVo3MlVYeGoyZ0JIWlVtaFhodzA3b2ZBc0twL3FLQUQxcVZtR2gzVVhPRHI1U3VzZnJIMlc1Nkd2d2Y4MUlJcTR3L2VnakRaL3Zubjhnc1dsV3JIbGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTU1MTY3CWZpbGU6VGFyYXphXzEuMC4yMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIyCmI3OHZJOXNzejMvRWZaZXdSMnA1bnJJS2hENjV0VGlWZk5RbGhGV1cxakJpNSttSVAxRU40RGZvOVQza1lhejdOMGRicVhjT1h0RVVRc1N2L3laN0N3PT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.22/Taraza_1.0.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVVjRlNLVkZiVS9IcWlxdDlPZjJBMWZLWHVLUGwvOUZBVUhiajFQbWpHM0xlNDl3VU1ONWhWemtwa3Y1M2RlWGtGZ2xLaW10Lzl3SGs5aHZlWGhOTkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTYwNDIzCWZpbGU6VGFyYXphXzEuMC4yM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIzCkpzcGh1WUlUSVl6bThISld4MlJIU3o1cWNudHROamJ0UnZwc1NOQk4wYzlOb3dEZzVPWWJNWGdDdmFnL3BNRGNuZnlhc2dXYVl0M0ZXd0tVQ212NkNnPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.23/Taraza_1.0.23_x64-setup.exe"
     }
   }
 }
