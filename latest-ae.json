@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.23/Taraza_1.0.23_x64-setup.exe",
-  "notes": "Taraza now tells you when an update is out: a green bar at the top of every screen and one Windows notification, with What's new, Update now (backs up your data first) and Later. You can turn the automatic check off in Settings > About and licence. For service companies, a new invoice or quotation opens on a description line, quantity 1, with no warehouse fields."
+  "version": "1.0.25",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.25/Taraza_1.0.25_x64-setup.exe",
+  "notes": "Time Charter Hire invoices: a new invoice type for ship owners and operators. Hire lines with Period From and To, Days worked out from the dates (editable, decimals allowed) and a Rate Per Day; VAT per line (Standard 5%, Zero-rated or Exempt); no quantity or discount. Totals: Sub Total, VAT, Total, Less Advance Payment Hire, Balance Due, taking the customer's advance receipts. Print and PDF in the same layout. Also: a wider description column on service invoices, and a purchase line's VAT is now chosen from a list."
 }
