@@ -1,11 +1,11 @@
 {
-  "version": "1.0.25",
-  "notes": "Time Charter Hire invoices: a new invoice type for ship owners and operators. Hire lines with Period From and To, Days worked out from the dates (editable, decimals allowed) and a Rate Per Day; VAT per line (Standard 5%, Zero-rated or Exempt); no quantity or discount. Totals: Sub Total, VAT, Total, Less Advance Payment Hire, Balance Due, taking the customer's advance receipts. Print and PDF in the same layout. Also: a wider description column on service invoices, and a purchase line's VAT is now chosen from a list.",
-  "pub_date": "2026-11-07T07:46:03.421Z",
+  "version": "1.0.26",
+  "notes": "Taraza 1.0.26: profit by item shows description lines; VAT checks on zero-rated and exempt lines; dropdowns stay inside the window; fixes",
+  "pub_date": "2026-11-09T09:12:22.547Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVRZelBkVndwMmMrZFZrcDl3azdLNTlQditGU2I0SVhkc1B2ejV6L1VnbzM1Z0dzZ2FpdTkrUEcycGJBZC9Qd1NDL1NYV2lONGFWQUtRcFY2VkMwRlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM3OTcwCWZpbGU6VGFyYXphXzEuMC4yNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjI1Ck9OdUtxb0JmMHBoT3RCL21ROUl6OExIQWZaNUhnK0t4ZmNtMHhQd2ZEaXJWZHhsbitZYUJ4TVVQWVpHbWhPM3l2dXo2UmxjYy93WG00SW95cEpPVkJ3PT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.25/Taraza_1.0.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVRNZjJTeVZlRGhQN2JZSlp3QlZtWVltQWczUFF3b0oyZFhrUjB2QlRTbGhodFdjanh4dHh4dDE4ZnE5V0pCeC9kc1RuekxpVmdTNURURHNRbk5iTHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE1NzQ3CWZpbGU6VGFyYXphXzEuMC4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjI2CndROU1mRHd0VDdVU1hFUWNzRnZrS0N1bHMvSjBtdDVvSkFLZWp4aVVqN0hpSnZPaGdES3M2T2kzbXcwYkV4TEIxUWtRWHFxZ3BCK3g3VFFIb2RTOERBPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.26/Taraza_1.0.26_x64-setup.exe"
     }
   }
 }
