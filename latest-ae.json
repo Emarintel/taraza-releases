@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.26/Taraza_1.0.26_x64-setup.exe",
-  "notes": "Taraza 1.0.26: profit by item shows description lines; VAT checks on zero-rated and exempt lines; dropdowns stay inside the window; fixes"
+  "version": "1.0.27",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.27/Taraza_1.0.27_x64-setup.exe",
+  "notes": "Taraza 1.0.27: works in windows down to 900px wide; sales returns go to Sales returns; VAT fixes for credit notes and older invoices; fixes"
 }
