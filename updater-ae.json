@@ -1,11 +1,11 @@
 {
-  "version": "1.0.26",
-  "notes": "Taraza 1.0.26: profit by item shows description lines; VAT checks on zero-rated and exempt lines; dropdowns stay inside the window; fixes",
-  "pub_date": "2026-11-09T09:12:22.547Z",
+  "version": "1.0.27",
+  "notes": "Taraza 1.0.27: works in windows down to 900px wide; sales returns go to Sales returns; VAT fixes for credit notes and older invoices; fixes",
+  "pub_date": "2026-11-11T13:05:34.273Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVRNZjJTeVZlRGhQN2JZSlp3QlZtWVltQWczUFF3b0oyZFhrUjB2QlRTbGhodFdjanh4dHh4dDE4ZnE5V0pCeC9kc1RuekxpVmdTNURURHNRbk5iTHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE1NzQ3CWZpbGU6VGFyYXphXzEuMC4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjI2CndROU1mRHd0VDdVU1hFUWNzRnZrS0N1bHMvSjBtdDVvSkFLZWp4aVVqN0hpSnZPaGdES3M2T2kzbXcwYkV4TEIxUWtRWHFxZ3BCK3g3VFFIb2RTOERBPT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.26/Taraza_1.0.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVIxVjJyY3g0VXVwNkU1UElheE1kVFNnYTBPMkFuN3pya2t0NTRjZVZycEIwMmJQcTNZNHBjNnh1NU9Hc1FRYkZZc2F0QlZIb2FnbzBQY2czSTVtVlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAyNzA4CWZpbGU6VGFyYXphXzEuMC4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjI3Ck91RUtBM09WNXNJS0laQzdWN094bVQ5elJiTHl4Y242RDdBOEJ4djcvRVJybVBWNmxBOGJlaVZWWmJmMVlmd0k3YitQS2ZmMFpkdlpqTHBQamxJVkRnPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.27/Taraza_1.0.27_x64-setup.exe"
     }
   }
 }
