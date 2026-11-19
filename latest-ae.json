@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.27/Taraza_1.0.27_x64-setup.exe",
-  "notes": "Taraza 1.0.27: works in windows down to 900px wide; sales returns go to Sales returns; VAT fixes for credit notes and older invoices; fixes"
+  "version": "1.0.28",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.28/Taraza_1.0.28_x64-setup.exe",
+  "notes": "Taraza 1.0.28: a manager panel, user monitoring, password-protected PDF reports by email, an optional report summary in fixed sentences, and a screen language for each user."
 }
