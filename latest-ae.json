@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.28/Taraza_1.0.28_x64-setup.exe",
-  "notes": "Taraza 1.0.28: a manager panel, user monitoring, password-protected PDF reports by email, an optional report summary in fixed sentences, and a screen language for each user."
+  "version": "1.0.29",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.29/Taraza_1.0.29_x64-setup.exe",
+  "notes": "Taraza 1.0.29: Contracts - a contract with its payment schedule, an advance with its tax invoice, retention, stage invoices, and a contract ledger as at any date, with print, PDF and Excel."
 }
