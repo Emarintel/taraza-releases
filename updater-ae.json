@@ -1,11 +1,11 @@
 {
-  "version": "1.0.28",
-  "notes": "Taraza 1.0.28: a manager panel, user monitoring, password-protected PDF reports by email, an optional report summary in fixed sentences, and a screen language for each user.",
-  "pub_date": "2026-11-19T20:08:06.980Z",
+  "version": "1.0.29",
+  "notes": "Taraza 1.0.29: Contracts - a contract with its payment schedule, an advance with its tax invoice, retention, stage invoices, and a contract ledger as at any date, with print, PDF and Excel.",
+  "pub_date": "2026-11-21T06:02:34.819Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVFHUWhYTWp5SEI4eW40MlJVVDJDdm9SVVBXZDltTFFpVWFsNFE0MHJ6cW9tNE1TZ3ZQaHdVRUtZZUNBd01ubXA4OGZueXlZRU1Ka2kyVUJLcElUWEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTE5MjUzCWZpbGU6VGFyYXphXzEuMC4yOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjI4CjNyVTJpblZvWU9FVThFR1FmRTFUU0h5S1NJc1FNZ1Y4eTJNaHN4SFJrbzlxVEVyczdSUTE1cTUvdDVpdTZYNWpCTG8vOG16ODcyd1V4QkVJWkVFU0JRPT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.28/Taraza_1.0.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVF4LzBmODBMUFJEbzIwYXQyRytEV20rSENzWTFCb1B1dStUY2JQU1FHY3R4TG9aM1ZocVhmdWNpUnlPVWd4dFowcXR4Ly8xUldPVUdVbTN1VUpiZ0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQxMjEyCWZpbGU6VGFyYXphXzEuMC4yOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjI5Cm9OMUEwVEZqMU9GYnN6ZldvWFNPVndSb2srdjFXbXZpaEFpdVMzUTJoVEJjTWI0OElMNUUvOXlPNUJyVmFWR2NucXBnSWxDbWFuYzNkczJWckRhMURRPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.29/Taraza_1.0.29_x64-setup.exe"
     }
   }
 }
