@@ -1,11 +1,11 @@
 {
-  "version": "1.0.29",
-  "notes": "Taraza 1.0.29: Contracts - a contract with its payment schedule, an advance with its tax invoice, retention, stage invoices, and a contract ledger as at any date, with print, PDF and Excel.",
-  "pub_date": "2026-11-21T06:02:34.819Z",
+  "version": "1.0.30",
+  "notes": "Taraza 1.0.30: Contract texts - templates, approval by a manager, addenda, print and PDF on your letterhead, and the signed copy. The templates are drafts for your lawyer's review, not legal advice.",
+  "pub_date": "2026-11-22T07:21:04.190Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVF4LzBmODBMUFJEbzIwYXQyRytEV20rSENzWTFCb1B1dStUY2JQU1FHY3R4TG9aM1ZocVhmdWNpUnlPVWd4dFowcXR4Ly8xUldPVUdVbTN1VUpiZ0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQxMjEyCWZpbGU6VGFyYXphXzEuMC4yOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjI5Cm9OMUEwVEZqMU9GYnN6ZldvWFNPVndSb2srdjFXbXZpaEFpdVMzUTJoVEJjTWI0OElMNUUvOXlPNUJyVmFWR2NucXBnSWxDbWFuYzNkczJWckRhMURRPT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.29/Taraza_1.0.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVMwQVB5aHg2bENZZXMyT0VrUzUxYmlpcVZKeExWVnhMODl3emQ2OVBoenplVEptNWFDbjdFSllkZVQ5TTZwQWxCQ1ZmVndDYkdHeUo2SGVLOTZKY1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMyMzI0CWZpbGU6VGFyYXphXzEuMC4zMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMwCnJVNXM0RUx0alpuek91VWowU3F4TXI0bHlVR3lVYzd0SGUwVUR2LzRUblZzZjZYb0JFSyt3ZnIza3liTGpkTlBCb2t2aHVoU1REVWV6UGF6cnNyaENBPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.30/Taraza_1.0.30_x64-setup.exe"
     }
   }
 }
