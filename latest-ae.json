@@ -1,5 +1,5 @@
 {
-  "version": "1.0.29",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.29/Taraza_1.0.29_x64-setup.exe",
-  "notes": "Taraza 1.0.29: Contracts - a contract with its payment schedule, an advance with its tax invoice, retention, stage invoices, and a contract ledger as at any date, with print, PDF and Excel."
+  "version": "1.0.30",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.30/Taraza_1.0.30_x64-setup.exe",
+  "notes": "Taraza 1.0.30: Contract texts - templates, approval by a manager, addenda, print and PDF on your letterhead, and the signed copy. The templates are drafts for your lawyer's review, not legal advice."
 }
