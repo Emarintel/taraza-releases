@@ -1,11 +1,11 @@
 {
-  "version": "1.0.30",
-  "notes": "Taraza 1.0.30: Contract texts - templates, approval by a manager, addenda, print and PDF on your letterhead, and the signed copy. The templates are drafts for your lawyer's review, not legal advice.",
-  "pub_date": "2026-11-22T07:21:04.190Z",
+  "version": "1.0.31",
+  "notes": "Taraza 1.0.31: Contracts at a glance (four cards, filters, an as-at day), profit per contract through its cost centre, Allocate a cost (and reverse a mistaken one), and clearer messages when a change is refused.",
+  "pub_date": "2026-11-23T11:05:52.139Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVMwQVB5aHg2bENZZXMyT0VrUzUxYmlpcVZKeExWVnhMODl3emQ2OVBoenplVEptNWFDbjdFSllkZVQ5TTZwQWxCQ1ZmVndDYkdHeUo2SGVLOTZKY1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMyMzI0CWZpbGU6VGFyYXphXzEuMC4zMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMwCnJVNXM0RUx0alpuek91VWowU3F4TXI0bHlVR3lVYzd0SGUwVUR2LzRUblZzZjZYb0JFSyt3ZnIza3liTGpkTlBCb2t2aHVoU1REVWV6UGF6cnNyaENBPT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.30/Taraza_1.0.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWJCUjZGSW52V0wrVS9IbEF2QS9WQmRFSkJhNGhINEJJOVNVdU9KZmFTSVVzeEJ0eEVFODZaNHJzMUlNSmRxZnhtU0JTMUVNQTYreHRWaEVxZGVHTmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDMyMjEzCWZpbGU6VGFyYXphXzEuMC4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMxCk1NVEZGS3h0VVl1NDV6UDZGblhzWlhINDcvd1BydjNZeGY2MWVVczczQTkxT2JaRlg4Wk9ON09EWklwQm0vMUVNZlRIR3dPTEVLK29tSnEvYkRpYkFnPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.31/Taraza_1.0.31_x64-setup.exe"
     }
   }
 }
