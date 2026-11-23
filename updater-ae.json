@@ -1,11 +1,11 @@
 {
-  "version": "1.0.31",
-  "notes": "Taraza 1.0.31: Contracts at a glance (four cards, filters, an as-at day), profit per contract through its cost centre, Allocate a cost (and reverse a mistaken one), and clearer messages when a change is refused.",
-  "pub_date": "2026-11-23T11:05:52.139Z",
+  "version": "1.0.32",
+  "notes": "Taraza 1.0.32: choose what the menu shows (for the company and each user), your licence's features at a glance, and small fixes to Allocate a cost and the contract's Profit tab.",
+  "pub_date": "2026-11-23T18:25:58.677Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeWJCUjZGSW52V0wrVS9IbEF2QS9WQmRFSkJhNGhINEJJOVNVdU9KZmFTSVVzeEJ0eEVFODZaNHJzMUlNSmRxZnhtU0JTMUVNQTYreHRWaEVxZGVHTmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDMyMjEzCWZpbGU6VGFyYXphXzEuMC4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMxCk1NVEZGS3h0VVl1NDV6UDZGblhzWlhINDcvd1BydjNZeGY2MWVVczczQTkxT2JaRlg4Wk9ON09EWklwQm0vMUVNZlRIR3dPTEVLK29tSnEvYkRpYkFnPT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.31/Taraza_1.0.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVQ1MnRHUzBxMFRQUnNNNXdQU2VKcVVNeFNPRHpoL0VyMGJQYUZ6b0tUNnMvTVNQaENJZk9lTzNreEVpeUdkWGN4eUZQNzdSTlBUVkw0WTRteWRYZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU4NjM5CWZpbGU6VGFyYXphXzEuMC4zMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMyCmNOYzNZYnFuZ1JybUJOMDIvNlM3aWxVVEFBU203SVM1QWhPbGluMUdwWm1XbDZUZlJ1YmZvMS9jY2Rna2hMMWJRMkNVcWN2TmJkZ1lBNTdQbzlCdUJRPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.32/Taraza_1.0.32_x64-setup.exe"
     }
   }
 }
