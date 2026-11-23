@@ -1,5 +1,5 @@
 {
-  "version": "1.0.30",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.30/Taraza_1.0.30_x64-setup.exe",
-  "notes": "Taraza 1.0.30: Contract texts - templates, approval by a manager, addenda, print and PDF on your letterhead, and the signed copy. The templates are drafts for your lawyer's review, not legal advice."
+  "version": "1.0.31",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.31/Taraza_1.0.31_x64-setup.exe",
+  "notes": "Taraza 1.0.31: Contracts at a glance (four cards, filters, an as-at day), profit per contract through its cost centre, Allocate a cost (and reverse a mistaken one), and clearer messages when a change is refused."
 }
