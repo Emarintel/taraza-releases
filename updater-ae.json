@@ -1,11 +1,11 @@
 {
-  "version": "1.0.33",
-  "notes": "Taraza 1.0.33: About and licence shows who issued your licence (Emarintel or an authorised partner); licences from partners need 1.0.33.",
-  "pub_date": "2026-11-24T14:03:53.290Z",
+  "version": "1.0.34",
+  "notes": "Taraza 1.0.34: recurring contract invoices and renewals, the contract statement as a password-protected PDF, contracts in a foreign currency, customer advances no longer translated, and small fixes.",
+  "pub_date": "2026-11-26T05:30:25.650Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVFhTkhQcllRTzdnOUs3N0JpTGFIMUZEUzNQcTQ5Y0FKK04za1FPNVFsSGl5VHUyeitIaGk3WE4yNGkva1ZyZ25DNFlRSmhsU2ZXMVFJZEpydTg0N3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI5MjcxCWZpbGU6VGFyYXphXzEuMC4zM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMzCjVkQ0VvVE1wNXVUeDF2MjB2OFNBMmFkaVBtZ1dHaWNEeWpIU1ZFTFA5ZVVkd015QnNGVTNKRnUxbEtxdEtPZjhnRFNKanBDTml1RndxR2pNQTNkaENnPT0K",
-      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.33/Taraza_1.0.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeTVkWVhyYWhVeVVnSlZ6bTJXR0pJYUxhMUVyRzlBSnd6MHFwekYwTFpzVXNiaWlrR0l2U0E1eFp6a1c2MnFrVW9wWTVhVGZyR1g5NVJrS0J4N1pvbUNFWm1BWUNpWUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjcxMzI1CWZpbGU6VGFyYXphXzEuMC4zNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjM0CmhtK09oNDNyWElYdmpmWDJQNFFQbHJVT2VDVWFNR3hIUEJjblRKZXYxc2FSRlFmcjNLckVFa3hueUdqR1hkNDF2Zyt3RitQYzZGTDZ1eHVZWWtEU0NBPT0K",
+      "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.34/Taraza_1.0.34_x64-setup.exe"
     }
   }
 }
