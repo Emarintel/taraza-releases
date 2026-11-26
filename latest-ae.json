@@ -1,5 +1,5 @@
 {
-  "version": "1.0.33",
-  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.33/Taraza_1.0.33_x64-setup.exe",
-  "notes": "Taraza 1.0.33: About and licence shows who issued your licence (Emarintel or an authorised partner); licences from partners need 1.0.33."
+  "version": "1.0.34",
+  "url": "https://github.com/Emarintel/taraza-releases/releases/download/ae-v1.0.34/Taraza_1.0.34_x64-setup.exe",
+  "notes": "Taraza 1.0.34: recurring contract invoices and renewals, the contract statement as a password-protected PDF, contracts in a foreign currency, customer advances no longer translated, and small fixes."
 }
